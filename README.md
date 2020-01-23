@@ -1,4 +1,4 @@
-# terraform module depends_list
+# terraform module depends_on
 
 This is a workaround for https://github.com/hashicorp/terraform/issues/10462 to make terraform modules work like resources depends_on
 
